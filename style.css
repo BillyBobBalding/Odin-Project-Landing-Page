@@ -171,6 +171,13 @@ body {
     justify-content: center;
 }
 
+.copyright {
+    font-size: 12px;
+    color: #E5E7EB;
+    text-align: center;
+    padding: 20px 0px;
+}
+
 button {
     background-color: #3882F6;
     border-radius: 4px;
